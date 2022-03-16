@@ -1,0 +1,17 @@
+{
+  "check_dir_path_list": [
+    "D:/",
+    "C:/"
+  ],
+  "ignore_dir_list": [
+    "C:/Windows",
+    "C:/ProgramData",
+    "C:/Program Files"
+  ],
+  "suffix_name_list": [
+    "jpg",
+    "jpeg",
+    "mp4",
+    "png"
+  ]
+}
